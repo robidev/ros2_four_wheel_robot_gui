@@ -2,6 +2,8 @@
 
 **ROS2 Four Wheel Robot GUI** is a PyQt5-based graphical interface for controlling and monitoring a ROS 2 robot, including camera viewing, sensor readouts, and control over servos, motors, LEDs, buzzer, and OLED display.
 
+![GUI](images/gui.png)
+
 ## 📦 Features
 
 - 🕹 Manual control via buttons or keyboard (`WASD` + `SPACE`)
